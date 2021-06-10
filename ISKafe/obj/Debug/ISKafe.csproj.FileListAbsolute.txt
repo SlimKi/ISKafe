@@ -1,0 +1,17 @@
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\bin\Debug\ISKafe.exe.config
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\bin\Debug\ISKafe.exe
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\bin\Debug\ISKafe.pdb
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.csprojAssemblyReference.cache
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\MainWindow.g.cs
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\App.g.cs
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe_MarkupCompile.cache
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe_MarkupCompile.lref
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\MainWindow.baml
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.g.resources
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.Properties.Resources.resources
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.csproj.GenerateResource.cache
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.csproj.CoreCompileInputs.cache
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.exe
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\ISKafe.pdb
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\MenuWindow.g.cs
+D:\Учеба\Дипломная\Приложение к диплому\ISKafe\ISKafe\obj\Debug\MenuWindow.baml
